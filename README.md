@@ -3,4 +3,4 @@ These assessment demonstrates my competency .NET/C# including good OOP design an
 
 - **Tertiary Institution:** University Of Technology Sydney
 - **Degree:** Graduate Certificate in Engineering: Software Systems
-- **Grade:** High Distinction
+- **Grade:** Currently Awaiting for Result
