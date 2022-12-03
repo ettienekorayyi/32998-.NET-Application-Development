@@ -1,0 +1,15 @@
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\bin\Debug\SimpleBankManagementSystems.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\bin\Debug\SimpleBankManagementSystems.exe
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\bin\Debug\SimpleBankManagementSystems.pdb
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.exe
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.pdb
+C:\Users\Stephen\Documents\Visual Studio 2019\C#\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.csproj.AssemblyReference.cache
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\bin\Debug\SimpleBankManagementSystems.exe.config
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\bin\Debug\SimpleBankManagementSystems.exe
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\bin\Debug\SimpleBankManagementSystems.pdb
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.csproj.AssemblyReference.cache
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.exe
+C:\Users\Stephen\Documents\Github\32998-.NET-Application-Development\Assignment 1\SimpleBankManagementSystems\SimpleBankManagementSystems\obj\Debug\SimpleBankManagementSystems.pdb

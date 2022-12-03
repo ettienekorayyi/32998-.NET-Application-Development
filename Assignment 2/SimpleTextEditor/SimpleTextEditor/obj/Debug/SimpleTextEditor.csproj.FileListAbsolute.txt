@@ -1,0 +1,17 @@
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.LoginForm.resources
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Forms.NewUserForm.resources
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Forms.TextEditorForm.resources
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.cache
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Forms.AboutForm.resources
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\bin\Debug\System.Drawing.Common.dll
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\bin\Debug\System.Drawing.Common.xml
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.CopyComplete
+C:\Users\Stephen\Documents\Visual Studio 2022\C#\UTS\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.SuggestedBindingRedirects.cache

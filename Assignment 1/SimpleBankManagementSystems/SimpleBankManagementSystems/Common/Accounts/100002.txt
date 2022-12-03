@@ -1,0 +1,9 @@
+First Name|Maggie
+Last Name|Contoso
+Balance|900001
+Address|Belmore
+Phone|0987654321
+Email|corralannmargarett@gmail.com
+Account Number|100002
+09.11.2022|deposit|1000000|1000000
+09.12.2022|withdraw|99999|900001

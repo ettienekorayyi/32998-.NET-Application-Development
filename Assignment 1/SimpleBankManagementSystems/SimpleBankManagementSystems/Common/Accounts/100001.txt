@@ -1,0 +1,12 @@
+First Name|Steve
+Last Name|Corral
+Balance|400
+Address|UTS
+Phone|0987654321
+Email|corralstephenmelben@gmail.com
+Account Number|100001
+09.11.2022|deposit|50|100
+09.11.2022|deposit|50|150
+09.11.2022|deposit|50|200
+09.11.2022|deposit|50|250
+09.12.2022|deposit|400|400
