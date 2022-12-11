@@ -5,4 +5,4 @@ The project solutions where developed with Unit Testing in mind which is the rea
 
 - **Tertiary Institution:** University Of Technology Sydney
 - **Degree:** Graduate Certificate in Engineering: Software Systems
-- **Grade:** 95/100
+- **Grade:** High Distinction - 95/100
